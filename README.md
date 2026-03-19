@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
