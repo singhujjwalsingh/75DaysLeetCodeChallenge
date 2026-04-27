@@ -31,6 +31,7 @@
 | [0074-search-a-2d-matrix](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -262,4 +263,8 @@
 | [0014-longest-common-prefix](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
