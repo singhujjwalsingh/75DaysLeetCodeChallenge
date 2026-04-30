@@ -32,6 +32,7 @@
 | [0074-search-a-2d-matrix](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
@@ -55,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
