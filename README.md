@@ -67,6 +67,7 @@
 | [0875-koko-eating-bananas](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0567-permutation-in-string](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -377,4 +379,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
