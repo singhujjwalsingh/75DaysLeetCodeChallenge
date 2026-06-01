@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
