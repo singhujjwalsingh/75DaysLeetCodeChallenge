@@ -1,24 +1,32 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int n=nums.length/3;
-        List<Integer> list =new ArrayList<>();
-        HashMap<Integer,Integer> map =new HashMap<>();
-        for(int x:nums){
-            map.put(x,map.getOrDefault(x,0)+1);
-        }
-    //     for (int i = 0; i < nums.length; i++) {
-    // map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-    //     }
-    for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > n) {
-                list.add(entry.getKey());
+        ArrayList<Integer> ans=new ArrayList<>();
+        int count1=0,count2=0;
+        int el1=0,el2=0;
+        for(int i=0;i<nums.length;i++){
+            if(count1==0 && el2!=nums[i]){
+                el1=nums[i];
+                count1++;
             }
+            else if(count2==0 && el1!=nums[i]){
+                el2=nums[i];
+                count2++;
+            }
+            else if(el1==nums[i]) count1++;
+            else if(el2==nums[i]) count2++;
+            else {
+                count1--;
+                count2--;
         }
-        return list;
-//         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-//     int key = entry.getKey();
-//     int value = entry.getValue();
-//     if(value>n) 
-// }
     }
+   count1=0;
+   count2=0;
+   for(int i=0;i<nums.length;i++){
+    if(nums[i]==el1)count1++;
+    else if(nums[i]==el2) count2++;
+   }
+   if(count1>nums.length/3) ans.add(el1);
+   if(count2>nums.length/3) ans.add(el2);
+   return ans;
+}
 }
