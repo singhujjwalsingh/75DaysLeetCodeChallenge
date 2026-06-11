@@ -87,6 +87,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 | [0347-top-k-frequent-elements](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0238-product-of-array-except-self](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,11 +232,13 @@
 | [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +263,7 @@
 | [0567-permutation-in-string](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
