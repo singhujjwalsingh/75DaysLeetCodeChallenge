@@ -72,6 +72,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +157,7 @@
 | [0191-number-of-1-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -448,4 +451,20 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
