@@ -252,6 +252,7 @@
 | [0213-house-robber-ii](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
@@ -424,6 +425,7 @@
 | ------- |
 | [0136-single-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 ## Union-Find
 |  |
 | ------- |
