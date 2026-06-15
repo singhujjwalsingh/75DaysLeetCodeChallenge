@@ -1,55 +1,29 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int left = 1;
-
-        int right = 0;
-
-        // find max pile
-
-        for (int pile : piles) {
-
-            right = Math.max(right, pile);
-
-        }
-
-        int ans = right;
-
-        while (left <= right) {
-
-            int mid = left + (right - left) / 2;
-
-            if (canFinish(piles, h, mid)) {
-
-                ans = mid;
-
-                right = mid - 1; // try smaller speed
-
+        int low=1;
+        int high=max(piles);
+        int ans=max(piles);
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            long target=countHours(piles,mid);
+            if(target<=h){
+                ans=mid;
+                high=mid-1;
             }
-
-            else {
-
-                left = mid + 1;
-
-            }
-
+            else low=mid+1;
         }
-
         return ans;
-
     }
-
-    private boolean canFinish(int[] piles, int h, int k) {
-
-        long hours = 0;
-
-        for (int pile : piles) {
-
-            hours += (pile + k - 1) / k;
-
-        }
-
-        return hours <= h;
-
+    int max(int[] piles){
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<piles.length;i++) max=Math.max(max,piles[i]);
+        return max;
     }
-
+    long countHours(int[] piles, int speed) {
+    long hrs = 0;
+    for (int banana : piles) {
+        hrs += (banana + speed - 1) / speed;
+    }
+    return hrs;
+}
 }
