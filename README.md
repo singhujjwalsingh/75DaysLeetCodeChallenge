@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 ## Brainteaser
@@ -439,6 +440,7 @@
 | [0191-number-of-1-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Union-Find
 |  |
 | ------- |
