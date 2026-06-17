@@ -16,6 +16,7 @@
 | [0371-sum-of-two-integers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Brainteaser
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1046-last-stone-weight](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0621-task-scheduler](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -491,4 +494,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
