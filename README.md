@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
@@ -437,6 +438,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
