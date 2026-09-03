@@ -98,6 +98,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3925-concatenate-array-with-reverse](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -470,6 +471,7 @@
 | [0054-spiral-matrix](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3925-concatenate-array-with-reverse](https://github.com/singhujjwalsingh/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
 | ------- |
